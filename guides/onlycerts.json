@@ -1,0 +1,15 @@
+[
+  {"cert": "IFMGA/UIAGM", "cant": 302},
+  {"cert": "UIAGM", "cant": 89},
+  {"cert": "AEGM", "cant": 53},
+  {"cert": "JMGA", "cant": 42},
+
+  {"cert": "AAGM", "cant": 41},
+  {"cert": "AAGM/UIMLA", "cant": 36},
+  {"cert": "AEGM/IFMGA/UIAGM", "cant": 35},
+  {"cert": "IFMGA/UIAGM/SNGM", "cant": 33},
+  {"cert": "AMGA", "cant": 31},
+  {"cert": "IFMGA/UIAGM/SBV", "cant": 17}
+]
+
+
